@@ -1,29 +1,38 @@
-----
+PORTUGUÊS
+ 
+PYTHON- ETL - EXPLORAÇÃO DOS DADOS
+ O projeto de análise do mercado imobiliário para o estado de Washington como exemplo, utilizando dados extraídos do site Kaggle. Vamos explorar como esse projeto pode ser adaptado tambem para outras regiões e tipos de negócios imobiliários, baseado em compras, vendas, locações, reformas e o mercado em geral.
+  Ao apresentar algumas questões fictícias relacionadas ao tema, vamos mergulhar na exploração e limpeza dos dados para torná-los mais compreensíveis e fáceis de trabalhar. Acompanhe enquanto revelo as respostas essenciais para alavancar o negócio, da perspectiva de um CEO em busca de dados sólidos e consultáveis.
+  O mercado imobiliário é vasto e possui diversas aplicações, e aqui apresento uma fatia de questões de exemplos que podem ser exploradas.
 
-# entrada
 
-
-Neste vídeo, embarque comigo em um projeto de análise do mercado imobiliário para o estado de Washington como exemplo, utilizando dados extraídos do site Kaggle. Vamos explorar como esse projeto pode ser adaptado tambem para outras regiões e tipos de negócios imobiliários, baseado em compras, vendas, locações, reformas e o mercado em geral.
-
-# depois da limpeza
-
-Ao apresentar algumas questões fictícias relacionadas ao tema, vamos mergulhar na exploração e limpeza dos dados para torná-los mais compreensíveis e fáceis de trabalhar. Acompanhe enquanto revelo as respostas essenciais para alavancar o negócio, da perspectiva de um CEO em busca de dados sólidos e consultáveis.
-
-O mercado imobiliário é vasto e possui diversas aplicações, e aqui apresento uma fatia de questões de exemplos que podem ser exploradas.
-
-# mapa
-Agora Mapeando e Ajustando os Detalhes Finais para uma Análise Poderosa e mais aguçada.
+MAPA - PYHTON - VISUALIZAÇÃO
+  Mapeando e Ajustando os Detalhes Finais para uma Análise Poderosa e mais aguçada.
 O uso do Python tambem me permite criar mapas para analisar e criar ferramentas essenciais para casos específicos. Observe a facilidade e agilidade no processo de pesquisa. 
 A pedido do CEO fictício, converti os valores para a moeda local, possibilitando filtrar variáveis com base nas perguntas-chave do CEO e assim proporcionando a visualização que ele deseja.
 
-Acompanhe cada passo na jornada para aprimorar e ajustar os detalhes finais, permitindo uma análise mais aprofundada e objetiva.
-
-#power bi
-
+POWER BI - DASHBOARD - PAINEL INTERATIVO
 Com base nos dados disponíveis, vou demonstrar como é possível filtrar as informações de maneiras diversas para atingir objetivos de pesquisa com eficiência. Segmentaremos os dados por classes, preços, localizações e outras categorias relevantes para o negócio.
+  O Power BI será nossa ferramenta poderosa para proporcionar uma experiência fluida e facilitar a aplicação dos dados de acordo com as necessidades específicas de pesquisa e análise.
+  Este projeto tem como objetivo oferecer diversas abordagens para trabalhar e analisar assuntos relacionados ao mercado imobiliário, como auxílio a consultores, projetos de reforma de imóveis e muito mais.
+  Espero que apreciem essa imersão em pesquisa e negócios no mercado imobiliário do estado de Washington e que este projeto inspire você em suas próprias análises e tomada de decisões. gratidão
+-----------------------------------------------
 
-O Power BI será nossa ferramenta poderosa para proporcionar uma experiência fluida e facilitar a aplicação dos dados de acordo com as necessidades específicas de pesquisa e análise.
+ENGLISH
 
-Este projeto tem como objetivo oferecer diversas abordagens para trabalhar e analisar assuntos relacionados ao mercado imobiliário, como auxílio a consultores, projetos de reforma de imóveis e muito mais.
+PYTHON- ETL - DATA ANALYSIS
+The real estate market analysis project for the state of Washington serves as an example, utilizing data extracted from the Kaggle website. We will explore how this project can also be adapted for other regions and types of real estate businesses, including purchases, sales, rentals, renovations, and the general market.
 
-Espero que apreciem essa imersão em pesquisa e negócios no mercado imobiliário do estado de Washington e que este projeto inspire você em suas próprias análises e tomada de decisões. gratidão
+By presenting some fictional questions related to the theme, we will delve into data exploration and cleansing to make them more comprehensible and easy to work with. Follow along as I reveal essential insights to leverage the business, from the perspective of a CEO seeking reliable and actionable data.
+
+The real estate market is vast and offers various applications, and here I present a slice of example questions that can be explored.
+
+MAP - PYTHON - DATA VISUALIZATION TOOL
+Mapping and Fine-Tuning for a Powerful and Sharper Analysis.
+The use of Python also allows me to create maps for analyzing and building essential tools for specific cases. Observe the ease and agility in the research process. As requested by the fictional CEO, I converted values to the local currency, enabling the filtering of variables based on the CEO's key questions and providing the desired visualizations.
+
+POWER BI - DASHBOARD - INTERACTIVE PANEL
+With the available data, I will demonstrate how we can filter information in various ways to achieve research objectives efficiently. We will segment the data by classes, prices, locations, and other relevant categories for the business.
+Power BI will be our powerful tool to provide a seamless experience and facilitate the application of data according to specific research and analysis needs.
+This project aims to offer diverse approaches to work on and analyze real estate-related matters, such as assisting consultants, property renovation projects, and much more.
+I hope you enjoy this immersive journey into research and business in the Washington real estate market, and may this project inspire you in your own analyses and decision-making. Gratitude.
