@@ -1,0 +1,29 @@
+----
+
+# entrada
+
+
+Neste vídeo, embarque comigo em um projeto de análise do mercado imobiliário para o estado de Washington como exemplo, utilizando dados extraídos do site Kaggle. Vamos explorar como esse projeto pode ser adaptado tambem para outras regiões e tipos de negócios imobiliários, baseado em compras, vendas, locações, reformas e o mercado em geral.
+
+# depois da limpeza
+
+Ao apresentar algumas questões fictícias relacionadas ao tema, vamos mergulhar na exploração e limpeza dos dados para torná-los mais compreensíveis e fáceis de trabalhar. Acompanhe enquanto revelo as respostas essenciais para alavancar o negócio, da perspectiva de um CEO em busca de dados sólidos e consultáveis.
+
+O mercado imobiliário é vasto e possui diversas aplicações, e aqui apresento uma fatia de questões de exemplos que podem ser exploradas.
+
+# mapa
+Agora Mapeando e Ajustando os Detalhes Finais para uma Análise Poderosa e mais aguçada.
+O uso do Python tambem me permite criar mapas para analisar e criar ferramentas essenciais para casos específicos. Observe a facilidade e agilidade no processo de pesquisa. 
+A pedido do CEO fictício, converti os valores para a moeda local, possibilitando filtrar variáveis com base nas perguntas-chave do CEO e assim proporcionando a visualização que ele deseja.
+
+Acompanhe cada passo na jornada para aprimorar e ajustar os detalhes finais, permitindo uma análise mais aprofundada e objetiva.
+
+#power bi
+
+Com base nos dados disponíveis, vou demonstrar como é possível filtrar as informações de maneiras diversas para atingir objetivos de pesquisa com eficiência. Segmentaremos os dados por classes, preços, localizações e outras categorias relevantes para o negócio.
+
+O Power BI será nossa ferramenta poderosa para proporcionar uma experiência fluida e facilitar a aplicação dos dados de acordo com as necessidades específicas de pesquisa e análise.
+
+Este projeto tem como objetivo oferecer diversas abordagens para trabalhar e analisar assuntos relacionados ao mercado imobiliário, como auxílio a consultores, projetos de reforma de imóveis e muito mais.
+
+Espero que apreciem essa imersão em pesquisa e negócios no mercado imobiliário do estado de Washington e que este projeto inspire você em suas próprias análises e tomada de decisões. gratidão
